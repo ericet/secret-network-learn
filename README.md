@@ -1,7 +1,7 @@
 ## Learn Secret Network
 * git clone https://github.com/ericet/secret-network-learn.git
 * cd secret-network-learn
-* git install
+* npm install
 ### #1  
 * node part1.js
 ### #2
