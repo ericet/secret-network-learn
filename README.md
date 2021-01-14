@@ -2,7 +2,7 @@
 * git clone https://github.com/ericet/secret-network-learn.git
 * cd secret-network-learn
 * npm install
-* Replace <API KEY> in .env file with your API KEY
+* Replace \<API KEY\> in .env file with your API KEY
 ### #1  
 * node part1.js
 ### #2
